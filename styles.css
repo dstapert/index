@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  .projects {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  .projects h2 {
+    font-size: 28px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  .project {
+    margin-bottom: 30px;
+  }
+  .project h3 {
+    font-size: 24px;
+    color: #555;
+    margin-bottom: 10px;
+  }
+  .project p {
+    font-size: 16px;
+    color: #666;
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+  .project a {
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  .project a:hover {
+    color: #0056b3;
+  }
